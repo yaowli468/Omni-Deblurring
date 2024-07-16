@@ -1,6 +1,6 @@
 <!-- Title -->
 ## Omni-Deblurring: Capturing Omni-Range Context for Image Deblurring
-### Note: uformer_OriKV_Qsigmoid_arch.py will be published upon acceptance of the paper
+### Note: uformer_OriKV_Qsigmoid_arch.py will be published upon acceptance of this paper
 
 ![image text](https://github.com/yaowli468/Omni-Deblurring/blob/main/IMG/Framework.jpg)
 
