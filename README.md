@@ -1,6 +1,8 @@
 <!-- Title -->
 ## Omni-Deblurring: Capturing Omni-Range Context for Image Deblurring
-### Note: test.py and train_liif.py will be published upon acceptance of the paper
+### Note: uformer_OriKV_Qsigmoid_arch.py will be published upon acceptance of the paper
+
+![image text](https://github.com/yaowli468/Omni-Deblurring/blob/main/IMG/Framework.jpg)
  
 ## Dependencies
 * Linux(Tested on Ubuntu 18.04) 
@@ -39,7 +41,6 @@
    python setup.py develop --no_cuda_ext
    python -m torch.distributed.launch --nproc_per_node=8 --master_port=4321 basicsr/train.py -opt options/train/GoPro.yml --launcher pytorch
    ```
-  % python basicsr/train.py -opt Motion_Deblurring/Options/Deblurring_Restormer.yml
 ## Acknowledgments
 This code is based on [Restormer](https://github.com/swz30/Restormer). Thanks for their greate works.
 
