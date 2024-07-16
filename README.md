@@ -3,7 +3,7 @@
 ### Note: uformer_OriKV_Qsigmoid_arch.py will be published upon acceptance of the paper
 
 ![image text](https://github.com/yaowli468/Omni-Deblurring/blob/main/IMG/Framework.jpg)
- 
+
 ## Dependencies
 * Linux(Tested on Ubuntu 18.04) 
 * Python 3.8 (Recomend to use [Anaconda](https://www.anaconda.com/products/individual#linux))
